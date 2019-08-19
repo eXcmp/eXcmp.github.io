@@ -69,7 +69,8 @@ body
 
 #content 
 {
-    margin         : 0px 15px 20px 160px;
+    width          : 575px;
+    margin         : 0px 10px 10px 160px;
     border-left    : 1px solid #f0f0f0; /* Very light Gray */
     border-right   : 1px solid #f0f0f0; /* Very Light Gray */
     padding        : 0px 10px 0px 10px;
